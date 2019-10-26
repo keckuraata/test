@@ -1,5 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="78253d95:16e098c26b2:-7ffc" />
+    <option name="version" value="4.5.2" />
   </component>
 </application>
